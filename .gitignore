@@ -1,4 +1,4 @@
-
+.node_modules/*
 .idea/
 app/bower/bootstrap/
 app/bower/jade/
