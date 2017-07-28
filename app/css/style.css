@@ -1,0 +1,19 @@
+.clear-fix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden; }
+
+.top {
+  background: #97cbca;
+  height: 100vh; }
+
+.wrapper {
+  width: 1170px;
+  margin: 0 auto;
+  color: #a3a3a3;
+  height: 100vh; }
+
+.main-menu {
+  float: right; }

@@ -1,4 +1,4 @@
-.node_modules/*
+
 .idea/
 app/bower/bootstrap/
 app/bower/jade/
@@ -60,11 +60,6 @@ app/bower/jquery/src/wrap.js
 app/bower/jquery/test/
 app/bower/jquery/version.txt
 app/bower/normalize-css/
-app/css/
-app/fonts/
-app/img/
-app/index.html
-app/sass/
-gulpfile.js
-node_modules/
+
+
 package.json
